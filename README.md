@@ -1,6 +1,6 @@
 # hello-world
 My first GitHub project
-[ClosedWonRevenueAnalysis.xlsx] (ClosedWonRevenueAnalysis.xlsx)
+[ClosedWonRevenueAnalysis.xlsx](ClosedWonRevenueAnalysis.xlsx)
 # Closed-Won Revenue Analysis by Lead Source
 
 ## Project Overview
